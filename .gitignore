@@ -1,0 +1,34 @@
+# Dependencias de Composer
+/vendor
+
+# Archivos de entorno
+.env
+.env.*.backup
+
+# Dependencias de Node
+/node_modules
+
+# Archivos de compilación de frontend
+/public/js
+/public/css
+/public/mix-manifest.json
+
+# Cachés y logs de Laravel
+/storage/*.key
+/storage/app/public
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+
+# Archivos de configuración de Tailwind y otros
+tailwindcss
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.idea
+.vscode

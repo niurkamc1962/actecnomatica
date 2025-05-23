@@ -1,0 +1,17 @@
+<?php return array (
+  'admin.cambiarolespki-index' => 'App\\Http\\Livewire\\Admin\\CambiarolespkiIndex',
+  'admin.datospki-index' => 'App\\Http\\Livewire\\Admin\\DatospkiIndex',
+  'admin.empresaspki-index' => 'App\\Http\\Livewire\\Admin\\EmpresaspkiIndex',
+  'admin.notificacionespki-index' => 'App\\Http\\Livewire\\Admin\\NotificacionespkiIndex',
+  'admin.pendientespki-index' => 'App\\Http\\Livewire\\Admin\\PendientespkiIndex',
+  'admin.todospki-index' => 'App\\Http\\Livewire\\Admin\\TodospkiIndex',
+  'admin.users-index' => 'App\\Http\\Livewire\\Admin\\UsersIndex',
+  'navigation-solicitud' => 'App\\Http\\Livewire\\NavigationSolicitud',
+  'pki-representante' => 'App\\Http\\Livewire\\PkiRepresentante',
+  'pki-solicitud' => 'App\\Http\\Livewire\\PkiSolicitud',
+  'pki-solicitud-confirmacion' => 'App\\Http\\Livewire\\PkiSolicitudConfirmacion',
+  'pki-solicitud-registro' => 'App\\Http\\Livewire\\PkiSolicitudRegistro',
+  'pki-titular' => 'App\\Http\\Livewire\\PkiTitular',
+  'pki-usuario' => 'App\\Http\\Livewire\\PkiUsuario',
+  'solicitud-servicios' => 'App\\Http\\Livewire\\SolicitudServicios',
+);
